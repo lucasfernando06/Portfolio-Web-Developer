@@ -20,4 +20,4 @@ Projeto de página de portfolio profissional feita exclusivamente com HTML e CSS
 
 #### ~ Preview ~ 
 \
-<img src="git-assets/projeto-desenvolvedor-full-screen.png" width="100%" />
+<img src="git-assets/projeto-desenvolvedor-full-screen.png" />
