@@ -15,7 +15,7 @@ Projeto de página de portfolio profissional feita exclusivamente com HTML e CSS
 - Quer montar uma página própria, etc.
 
 #### Observação:
-- Por ser um conteúdo para ensino, não foram levadas em considerações adaptações para navegadores antigos, como IE.
+- Por ser um conteúdo para ensino, não foram levadas em consideração adaptações para navegadores antigos, como IE.
 
 #### ~ Preview ~ 
 \
