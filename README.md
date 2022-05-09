@@ -1,7 +1,6 @@
 # ~ Web Developer Portfolio ~
 
 Projeto de página de portfolio profissional feita exclusivamente com HTML e CSS. 
-
   
 #### Conceitos aplicados:
 - Como criar seu projeto de forma simples;
@@ -16,7 +15,7 @@ Projeto de página de portfolio profissional feita exclusivamente com HTML e CSS
 - Quer montar uma página própria, etc.
 
 #### Observação:
-- Por ser um conteúdo didático, não foram levadas em considerações adaptações para navegadores antigos, como IE.
+- Por ser um conteúdo para ensino, não foram levadas em considerações adaptações para navegadores antigos, como IE.
 
 #### ~ Preview ~ 
 \
